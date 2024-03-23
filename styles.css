@@ -161,6 +161,7 @@ label {
 
 input[type="checkbox"] {
     margin-right: 10px; 
+    cursor: pointer;
 }
 
 h1{
