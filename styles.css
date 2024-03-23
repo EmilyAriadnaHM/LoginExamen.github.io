@@ -117,15 +117,15 @@ body {
 
 form{
     position: relative;
-    width: 50%;
-    top: 10%;
+    width: 40%;
+    top: 5%;
     left:-20%;
     display:flexbox;
     max-width: 500px; 
+    margin-bottom: 10px;
 }
 
 input{
-    
     background-color: #e6e3e3; 
     font-size: 12px;
     border: none; 
@@ -135,7 +135,6 @@ input{
     margin-bottom: 10%;
     width: 100%;
 }
-
 
 .submit{
     width: 100%;
